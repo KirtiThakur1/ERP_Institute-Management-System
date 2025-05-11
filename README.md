@@ -28,6 +28,13 @@ Built using a classic LAMP stack (Linux, Apache, MySQL, PHP) with a clean and fu
 
 **📸 Screenshots:**
 
+![Image 1](screenshots/img1.png)
+![Image 1](screenshots/img2.png)
+![Image 1](screenshots/img3.png)
+![Image 1](screenshots/img4.png)
+![Image 1](screenshots/img5.png)
+![A Glimpse](screenshots/erp.gif)
+
 
 **📚 Academic Context**
 
