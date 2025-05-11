@@ -22,10 +22,9 @@ Built using a classic LAMP stack (Linux, Apache, MySQL, PHP) with a clean and fu
 **⁉️How to Run the Project:**
 
 - Download or clone this repository
-- Import the provided erp_db.sql file into your MySQL (via phpMyAdmin)
+- Import the provided ims_erp_db file into your MySQL (via phpMyAdmin)
 - Place the folder into your local Apache server (e.g., htdocs in XAMPP)
 - Update database credentials in config.php
-- Run http://localhost/erp-system in your browser
 
 **📸 Screenshots:**
 
