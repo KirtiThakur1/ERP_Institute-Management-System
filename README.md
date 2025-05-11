@@ -36,7 +36,7 @@ Built using a classic LAMP stack (Linux, Apache, MySQL, PHP) with a clean and fu
 
 ## 🎞️ ERP Demo (GIF)
 
-![ERP Demo](assets/erp.gif)
+![ERP Demo](assets/erp_gif.gif)
 
 **📚 Academic Context**
 
