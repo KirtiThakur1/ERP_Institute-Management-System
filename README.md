@@ -26,15 +26,17 @@ Built using a classic LAMP stack (Linux, Apache, MySQL, PHP) with a clean and fu
 - Place the folder into your local Apache server (e.g., htdocs in XAMPP)
 - Update database credentials in config.php
 
-**📸 Screenshots:**
+## 📸 Screenshots
 
-![Image 1](screenshots/img1.png)
-![Image 1](screenshots/img2.png)
-![Image 1](screenshots/img3.png)
-![Image 1](screenshots/img4.png)
-![Image 1](screenshots/img5.png)
-![A Glimpse](screenshots/erp.gif)
+![Dashboard](assets/img1.png)  
+![Student Registration](assets/img2.png)  
+![Course Management](assets/img3.png)  
+![Attendance System](assets/img4.png)  
+![Fees Overview](assets/img5.png)
 
+## 🎞️ ERP Demo (GIF)
+
+![ERP Demo](assets/erp.gif)
 
 **📚 Academic Context**
 
