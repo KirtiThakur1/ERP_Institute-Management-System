@@ -26,7 +26,7 @@ Built using a classic LAMP stack (Linux, Apache, MySQL, PHP) with a clean and fu
 - Place the folder into your local Apache server (e.g., htdocs in XAMPP)
 - Update database credentials in config.php
 
-## 📸 Screenshots
+# 📸 Screenshots
 
 <img src="img1.png" alt="Dashboard" width="900"/>
 <img src="img2.png" alt="Student Registration" width="900"/>
@@ -34,7 +34,7 @@ Built using a classic LAMP stack (Linux, Apache, MySQL, PHP) with a clean and fu
 <img src="img4.png" alt="Attendance System" width="900"/>
 <img src="img5.png" alt="Fees Overview" width="900"/>
 
-## 🎞️ ERP Demo (GIF)
+# 🎞️ ERP Demo
 
 ![ERP Demo](erp_gif.gif)
 
